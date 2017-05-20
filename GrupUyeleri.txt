@@ -1,11 +1,11 @@
-?Projemiz 2. Grup olarak yayınlanmıştır.
-İnönü Üniversitesi
-Mühendislik Fakültesi
-Bilgisayar Mühendisliği
-Projenin Üyeleri:
-Proje Yönetimi ve Genel Tasarımı : Ömer Açık
-Veri Ekleme: Çağrı Yılmaz
-Proje Test Kontrolü: Abdullah Yangıl
-Tasarım Yardımcısı: Yusuf Dinç
-Bağlantı Kontrolü: Eda Güde
-Sunum Kontrolü: Seda Güde
+Projemiz 2. Grup olarak yayÄ±nlanmÄ±ÅŸtÄ±r.
+Ä°nÃ¶nÃ¼ Ãœniversitesi
+MÃ¼hendislik FakÃ¼ltesi
+Bilgisayar MÃ¼hendisliÄŸi
+Projenin Ãœyeleri:
+Proje YÃ¶netimi ve Genel TasarÄ±mÄ± : Ã–mer AÃ§Ä±k
+Veri Ekleme: Ã‡aÄŸrÄ± YÄ±lmaz
+Proje Test KontrolÃ¼: Abdullah YangÄ±l
+TasarÄ±m YardÄ±mcÄ±sÄ±: Yusuf DinÃ§
+BaÄŸlantÄ± KontrolÃ¼: Eda GÃ¼de
+Sunum KontrolÃ¼: Seda GÃ¼de
