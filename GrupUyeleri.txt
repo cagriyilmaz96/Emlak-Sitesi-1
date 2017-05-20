@@ -1,0 +1,11 @@
+?Projemiz 2. Grup olarak yayýnlanmýþtýr.
+Ýnönü Üniversitesi
+Mühendislik Fakültesi
+Bilgisayar Mühendisliði
+Projenin Üyeleri:
+Proje Yönetimi ve Genel Tasarýmý : Ömer Açýk
+Veri Ekleme: Çaðrý Yýlmaz
+Proje Test Kontrolü: Abdullah Yangýl
+Tasarým Yardýmcýsý: Yusuf Dinç
+Baðlantý Kontrolü: Eda Güde
+Sunum Kontrolü: Seda Güde
